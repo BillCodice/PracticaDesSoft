@@ -12,7 +12,7 @@
 <link rel="stylesheet" href="css/bootstrap.css"/>
 <link rel="stylesheet" href="css/dataTables.bootstrap.min.css"/>
 <link rel="stylesheet" href="css/bootstrapValidator.css"/>
-<title>PC 03</title>
+<title>Práctica Desarrollo de Software</title>
 </head>
 <body> 
 
