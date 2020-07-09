@@ -133,7 +133,7 @@
 		                                        </div>
 		                                    </div>		   
 		                                    <div class="form-group">
-		                                        <label class="col-lg-3 control-label" for="id_reg_maxima">sueldo</label>
+		                                        <label class="col-lg-3 control-label" for="id_reg_maxima">Sueldo</label>
 		                                        <div class="col-lg-5">
 													<input class="form-control" id="id_reg_sueldo" name="sueldo" placeholder="Ingrese sueldo" type="text" maxlength="10"/>
 		                                        </div>
@@ -225,7 +225,7 @@
 		                                        </div>
 		                                    </div>		   
 		                                    <div class="form-group">
-		                                        <label class="col-lg-3 control-label" for="id_reg_maxima">sueldo</label>
+		                                        <label class="col-lg-3 control-label" for="id_reg_maxima">Sueldo</label>
 		                                        <div class="col-lg-5">
 													<input class="form-control" id="id_act_sueldo" name="sueldo" placeholder="Ingrese sueldo" type="text"maxlength="10" />
 		                                        </div>
